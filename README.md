@@ -1,4 +1,4 @@
 # Resmile-web
-web profile RESMILE
+Landing page Komunitas Resmile
 
 web ini adalah hasil belajar secara otodidak saya dalam web development
